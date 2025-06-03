@@ -73,18 +73,9 @@
 </p>
 <br>
 <hr>
-
-<div style="display: flex; align-items: center; justify-content: space-between; width: 100%;">
-    <span style="display: inline-block;">
-        <a href="https://git.io/streak-stats" style="text-decoration: none;">
-            <img src="https://github-readme-streak-stats.herokuapp.com?user=sharif-islam96403&theme=midnight-purple&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=200&fire=EB6D00" alt="GitHub Streak" style="max-width: 100%; height: auto; vertical-align: middle;" />
-        </a>
-    </span>
     <span style="display: inline-block; margin-left: 20px;">
-        <img alt="GIF" src="https://github.com/sharif-islam96403/sharif-islam96403/blob/main/PurpleMatrix.gif" align="right" style="width: 250px; height: 200px; vertical-align: middle;" />
+        <img alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmI0NThscGV1eWp5eGN4cWFoMnJyanJzdDVua3NhaXpxMnRuMGF2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CnSn4fwGIrNgQ/giphy.gif" align="right" style="width: 250px; height: 200px; vertical-align: middle;" />
     </span>
 </div>
-
-------
 
 Last Edited on: 02/06/2025
